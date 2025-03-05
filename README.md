@@ -1,5 +1,5 @@
 # College Recruitment Improvement Study
  exploratory data analysis of the CCM Computing Course Surveys
-MajorsFA2024.csv -->
-NewMajorsFA2024.csv -->
-Project 1 Part 2 -->
+# MajorsFA2024.csv --> This is the original dataset.
+# NewMajorsFA2024.csv --> This is the cleaned dataset.
+# Project1Part2.ipynb --> This is the notebook in which I performed exploratory analysis and data cleaning.
